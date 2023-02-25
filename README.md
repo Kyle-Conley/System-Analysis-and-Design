@@ -1,1 +1,7 @@
 # CS255-System-Analysis-and-Design
+
+The DriverPass project was designed as an online driver training service where students can practice exams and schedule training appointments with available instructors. The goal for DriverPass with this application is to decrease the percentage of failed driving test and increase the amount of knowledgeable and skilled drivers. The client requested this application be available across all platforms where users have unique identifiers with predetermined security constraints. This design provides the system requirement in  great detail, as well as providing an activity, sequence, and class diagram to fully capture how the system must act. 
+
+To further increase the efficiency of this design, I would continue to collect requirements of the system to ensure all required actions are met following any changes during implementation. Collecting feedback from all user’s will be a strong influence in which adjustments are needed in the future. 
+
+The users needs throughout this project were collected by attentively analyzing the clients interview and determining what functional and nonfunctional requirements were present to achieve their goal. These requirements were used to create design documents that aided in the production of the provided diagrams. The importance of full grasping the users’ needs is imperative in the success of DriverPass. A poorly designed system that isn’t scalable or unable to provide the needed actions will quickly deter a customer to a competitor.
